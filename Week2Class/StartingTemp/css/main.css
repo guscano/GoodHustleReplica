@@ -1,0 +1,50 @@
+* {
+	font-style: bold;
+}
+body {
+	margin: 25px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	color: red;
+	text-align: center;
+	position: static;
+}
+#title {
+	font-size-adjust: 100px;
+	background-color: black;
+	height: 20%;
+	width: 20%;
+	text-align: center;
+	background-position: center;
+	margin: auto;
+	color: purple;
+}
+#wrapper {
+	background: lightblue;
+	height: 25%;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+}
+#secondlevel {
+	background-color: pink;
+	height: 75px;
+	width: 40%;
+	text-align: center;
+	margin: 50px auto;
+	color: blue;
+
+
+}
+#thirdlevel {
+	color: purple;
+	font-style: italic;
+	height: 50px;
+	width: 80%;
+	background-color: rgba(0,0,255,.3);
+	margin: auto;
+	font-size-adjust: 50%;
+}
+
+

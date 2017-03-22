@@ -1,0 +1,22 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+/*to create the main hearder with the logo in the middle of it*/
+header {
+	background: olive;
+	height: 200px;
+	padding: 20%;
+} 
+/*to center the image logo in the header*/
+.container-fluid{
+	align-content: center;
+	margin-top: 0px: 
+	top:50px;
+}
+ 
+.input[type=text] {
+    width: 250px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-right: 25px;
+}

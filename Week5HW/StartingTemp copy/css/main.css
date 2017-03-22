@@ -1,0 +1,53 @@
+* {
+	font-family: 'Roboto Slab', serif;
+}
+/*to create the main hearder with the logo in the middle of it*/
+header {
+	background-color: olive;
+	padding: 10px;
+} 
+/*to place image logo in the header*/
+.container-fluid {
+	align-content: center;
+	margin-top: 0px: 
+	margin: 0 auto;
+}
+
+/*for the cart glyph*/
+.input[type=text] {
+    width: 250px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-right: 100px;
+}
+
+/*links on Nav bar; arranging them using an display;inline-block*/
+ul {
+	
+    width: 460px;
+    height: 12px;
+    margin-left: 700px;
+    padding: 0;
+    list-style-type: none;
+    list-style-position: horizontal;
+
+       
+}
+/*to display the links horizontally*/
+li {
+	display: inline;
+	
+}
+/*to create space between links*/
+ul li {
+	word-spacing: 25px;
+	font-size: 18px;
+}
+
+/*create link at bottom for subscribers*/
+.Subscribe {
+	size: 25px;
+	background-color: olive;
+	text-align: center;
+
+}

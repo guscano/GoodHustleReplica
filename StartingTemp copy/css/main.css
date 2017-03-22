@@ -1,0 +1,25 @@
+.navbar {
+	background: yellow;
+	height: 100%;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+}
+
+.navbar-header {
+	margin-right: 25px;
+	position: relative;
+}
+
+.dropdown   {
+	background-color: purple;
+
+}
+
+.navbar-form navbar-left {
+	margin: 75%;
+}
+
+.form-group {
+	background-color: lightblue;
+}
